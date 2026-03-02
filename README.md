@@ -1,4 +1,4 @@
-# Routing
+# VRP Solver
 
 A Python/Cython solver for dynamic vehicle routing pickup-and-delivery instances.
 
@@ -12,13 +12,13 @@ A Python/Cython solver for dynamic vehicle routing pickup-and-delivery instances
 From source:
 
 ```bash
-pip install git+https://github.com/blinklastmile/routing.git
+pip install git+https://github.com/turing95/vrp-solver.git
 ```
 
 If you also want plotting helpers:
 
 ```bash
-pip install "git+https://github.com/blinklastmile/routing.git#egg=routing[plot]"
+pip install "git+https://github.com/turing95/vrp-solver.git#egg=routing[plot]"
 ```
 
 ## Quick Usage
