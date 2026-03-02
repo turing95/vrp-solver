@@ -1,0 +1,4 @@
+Cython>=0.29.36,<4
+numpy>=1.24
+pytest>=8
+matplotlib>=3.8
